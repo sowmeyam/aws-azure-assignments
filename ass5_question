@@ -1,0 +1,11 @@
+Problem Statement:
+You work for XYZ Corporation. To maintain the security of the AWS account and
+the resources you have been asked to implement a solution that can help easily
+recognize and monitor the different users. Also, you will be monitoring the
+machines created by these users for any errors or misconfigurations.
+Tasks To Be Performed:
+1. Create a CloudWatch billing alarm which goes off when the estimated
+charges go above $500.
+2. Create a CloudWatch alarm which goes off to an Alarm state when the
+CPU utilization of an EC2 instance goes above 65%. Also add an SNS
+topic so that it notifies the person when the threshold are crossed
