@@ -1,0 +1,8 @@
+Problem Statement:
+You work for XYZ Corporation. To maintain the security of the AWS account and
+the resources you have been asked to implement a solution that can help easily
+recognize and monitor the different users. Also, you will be monitoring the
+machines created by these users for any errors or misconfigurations.
+Tasks To Be Performed:
+1. Create a dashboard which lets you check the CPU utilization and
+networking for a particular EC2 instance
