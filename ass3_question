@@ -1,0 +1,8 @@
+Problem Statement:
+You work for XYZ Corporation. To maintain the security of the AWS account and
+the resources you have been asked to implement a solution that can help easily
+recognize and monitor the different users.
+Tasks To Be Performed:
+1. Create a role which only lets user1 and user2 from task 1 to have complete
+access to VPCs and DynamoDB.
+2. Login into user1 and shift to the role to test out the feature.
